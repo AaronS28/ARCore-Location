@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARCore-Location", "ARCore-Location\ARCore-Location.csproj", "{C5534116-62DF-4571-B70A-21800CAB934D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5534116-62DF-4571-B70A-21800CAB934D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5534116-62DF-4571-B70A-21800CAB934D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5534116-62DF-4571-B70A-21800CAB934D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5534116-62DF-4571-B70A-21800CAB934D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E53D7060-DBB7-49BE-AB9C-E61B703A79A5}
+	EndGlobalSection
+EndGlobal
